@@ -11,5 +11,6 @@ All the documentation for the projects and content on this site is available wit
 ## Work in Progress
 
 Please note that this website is still a work in progress. I'm continuously improving and adding new content, so things may change over time. Check back for updates as I add more projects and resources!
+The two projects listed on the 3D projects site are intended as ideas rather than active projects. Once I complete my current project, I will update the site accordingly.
 
 Thank you for visiting!
